@@ -1,0 +1,10 @@
+{
+  "/wp-json": {
+    "target": "https://postunisia.000webhostapp.com",
+    "secure": false,
+    "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
